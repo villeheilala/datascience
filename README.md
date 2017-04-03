@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Datascience
 
-You can use the [editor on GitHub](https://github.com/villeheilala/datascience/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My compillation of learning resources related to datascience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Clustering
 
-### Markdown
+- Video: [Hierarchical clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6VX12puSF0Ep6NluI9vwoX) (V. Lavrenko)
+- Video: [K-means Clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl) (V. Lavrenko)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
