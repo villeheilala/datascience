@@ -2,10 +2,20 @@
 
 My compillation of learning resources related to datascience
 
+### Linear Algebra
+
+- Video: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Youtube, 3Blue1Brown)
+
 ### Clustering
 
-- Video: [Hierarchical clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6VX12puSF0Ep6NluI9vwoX) (V. Lavrenko, University of Edinburgh)
-- Video: [K-means Clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl) (V. Lavrenko, University of Edinburgh)
+#### K-Means
+
+- Video: [K-Means Clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl) (Youtube, V. Lavrenko, University of Edinburgh)
+
+#### Hierarchical clustering
+
+- Video: [Hierarchical clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6VX12puSF0Ep6NluI9vwoX) (Youtube, V. Lavrenko, University of Edinburgh)
+- Video: [K-means Clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl) (Youtube, V. Lavrenko, University of Edinburgh)
 
 ### Machine learning
 
