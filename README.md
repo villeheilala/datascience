@@ -10,3 +10,7 @@ My compillation of learning resources related to datascience
 ### Machine learning
 
 - Video: [Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) (Prof. A. Ihler, University of California Irvine)
+
+### Books
+
+- Zaki, M. & Meira, W. (2014). [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf). New York: Cambridge University Press.
