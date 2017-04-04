@@ -38,6 +38,11 @@ My compillation of learning resources related to datascience
 
 - Zaki & Meira Chapter 18.3 k Nearest Neighbors Classifier
 
+#### Decision Tree
+
+- Zaki & Meira Chapter 19 Decision Tree Classifier
+- Video: [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) (Youtube, V. Lavrenko)
+
 #### (Fisher's) Linear Discriminant Analysis (LDA)
 
 - Zaki & Meira Chapter 20 Linear Discriminant Analysis
