@@ -21,7 +21,7 @@ My compillation of learning resources related to datascience
 - Video: [K-means clustering part 1-2](https://www.youtube.com/watch?v=0MQEt10e4NM&list=PLD0F06AA0D2E8FFBA&index=114) (Youtube, mathematicalmonk)
 
 - [Finding the K in K-Means Clustering](https://datasciencelab.wordpress.com/2013/12/27/finding-the-k-in-k-means-clustering/)
-- [Wikipedia: [Determining the number of clusters in a data set](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
+- Wikipedia: [Determining the number of clusters in a data set](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
 
 #### Hierarchical clustering
 
