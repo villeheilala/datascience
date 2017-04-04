@@ -24,10 +24,17 @@ My compillation of learning resources related to datascience
 - Wikipedia: [Determining the number of clusters in a data set](https://en.wikipedia.org/wiki/Determining_the_number_of_clusters_in_a_data_set)
 - Wikipedia: [K-means Initialization Methods](https://en.wikipedia.org/wiki/K-means_clustering#Initialization_methods)
 
+- Python: [Clustering with K-means in Python](https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/) (Lloyd's algorithm from scratch)
+- Video, Python: [K-means clustering in Python](https://www.youtube.com/watch?v=gSSd2M12OfQ) (Analytics School)
+
 #### Hierarchical clustering
 
 - Video: [Hierarchical clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6VX12puSF0Ep6NluI9vwoX) (Youtube, V. Lavrenko, University of Edinburgh)
 - Video: [K-means Clustering](https://www.youtube.com/playlist?list=PLBv09BD7ez_6cgkSUAqBXENXEhCkb_2wl) (Youtube, V. Lavrenko, University of Edinburgh)
+
+### Classification
+
+#### k-nearest neighbors (k-NN)
 
 ### Machine learning
 
