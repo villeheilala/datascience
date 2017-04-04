@@ -36,6 +36,14 @@ My compillation of learning resources related to datascience
 
 #### k-nearest neighbors (k-NN)
 
+- Zaki & Meira Chapter 18.3 k Nearest Neighbors Classifier
+
+#### (Fisher's) Linear Discriminant Analysis (LDA)
+
+- Zaki & Meira Chapter 20 Linear Discriminant Analysis
+- Wikipedia: [Linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
+- Video: [Pattern Recognition Chapter 2 - Fisher Linear Discriminant Analysis (FLDA)](https://www.youtube.com/watch?v=hEEj8MEvfG4) (Youtube, Complete Gate HD)
+
 ### Machine learning
 
 - Video: [Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) (Prof. A. Ihler, University of California Irvine)
