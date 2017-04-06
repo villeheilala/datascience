@@ -54,6 +54,10 @@ My compillation of learning resources related to datascience
 - Video: [Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) (Prof. A. Ihler, University of California Irvine)
 - Video: [Machine Learning](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599) (Prof. A. Ng, Stanford University)
 
+### Feature Engineering
+
+- [Bayesian Blocks for Histograms](http://www.astroml.org/examples/algorithms/plot_bayesian_blocks.html)
+
 ### Quotes
 
 - "You need to know the question you are trying to answer" (Bell, J. (2015). Machine learning: Hands-On for Developers and Technical Professionals)
