@@ -61,6 +61,7 @@ My compillation of learning resources related to datascience
 #### DBSCAN
 
 - [Clustering to Reduce Spatial Data Set Size](http://geoffboeing.com/2014/08/clustering-to-reduce-spatial-data-set-size/) (Python)
+- [Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
 
 ### Machine learning
 
