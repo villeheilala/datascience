@@ -2,6 +2,10 @@
 
 My compillation of learning resources related to datascience
 
+### Tutorials
+
+- [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
+
 ### Books
 
 - Zaki, M. & Meira, W. (2014). [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf). New York: Cambridge University Press.
