@@ -49,6 +49,10 @@ My compillation of learning resources related to datascience
 - Wikipedia: [Linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
 - Video: [Pattern Recognition Chapter 2 - Fisher Linear Discriminant Analysis (FLDA)](https://www.youtube.com/watch?v=hEEj8MEvfG4) (Youtube, Complete Gate HD)
 
+#### DBSCAN
+
+- [Clustering to Reduce Spatial Data Set Size](http://geoffboeing.com/2014/08/clustering-to-reduce-spatial-data-set-size/) (Python)
+
 ### Machine learning
 
 - Video: [Machine Learning and Data Mining](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw) (Prof. A. Ihler, University of California Irvine)
@@ -57,6 +61,17 @@ My compillation of learning resources related to datascience
 ### Feature Engineering
 
 - [Bayesian Blocks for Histograms](http://www.astroml.org/examples/algorithms/plot_bayesian_blocks.html)
+
+### GIS & Spatial Analysis
+
+- [Online Geospatial Education at Penn State](https://gis.e-education.psu.edu/home)
+
+#### Spatial Analysis with Python
+
+- [Python GIS Resources: The Ultimate Guide to Open-Source Geospatial Python Tools](https://pythongisresources.wordpress.com/)
+- [PySAL: an open source library of spatial analysis](http://pysal.readthedocs.io/en/latest/)
+- [GeoPandas](http://geopandas.org/)
+- Video: [Introduction to Spatial Data Analysis with Python](https://www.youtube.com/watch?v=tM41Dxlk_zs)
 
 ### Quotes
 
