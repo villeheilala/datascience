@@ -10,6 +10,11 @@ My compillation of learning resources related to datascience
 
 - Video: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Youtube, 3Blue1Brown)
 
+### Data Cleaning and Manipulation
+
+- [How do I create test and train samples from one dataframe with pandas?](http://stackoverflow.com/questions/24147278/how-do-i-create-test-and-train-samples-from-one-dataframe-with-pandas)
+- [Real-world data cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
+
 ### Representative-based Clustering
 
 #### K-Means
@@ -43,6 +48,10 @@ My compillation of learning resources related to datascience
 - Zaki & Meira Chapter 19 Decision Tree Classifier
 - Video: [Decision Tree](https://www.youtube.com/watch?v=eKD5gxPPeY0&list=PLBv09BD7ez_4temBw7vLA19p3tdQH6FYO) (Youtube, V. Lavrenko)
 
+#### Random Forest
+
+- [Random Forest Classifier Example]https://chrisalbon.com/machine-learning/random_forest_classifier_example_scikit.html
+
 #### (Fisher's) Linear Discriminant Analysis (LDA)
 
 - Zaki & Meira Chapter 20 Linear Discriminant Analysis
@@ -61,6 +70,8 @@ My compillation of learning resources related to datascience
 ### Feature Engineering
 
 - [Bayesian Blocks for Histograms](http://www.astroml.org/examples/algorithms/plot_bayesian_blocks.html)
+- [Binning Data in pandas](https://chrisalbon.com/python/pandas_binning_data.html)
+- [Applying Operations Over pandas Dataframes](https://chrisalbon.com/python/pandas_apply_operations_to_dataframes.html)
 
 ### GIS & Spatial Analysis
 
