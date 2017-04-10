@@ -89,6 +89,10 @@ My compillation of learning resources related to datascience
 - [GeoPandas](http://geopandas.org/)
 - Video: [Introduction to Spatial Data Analysis with Python](https://www.youtube.com/watch?v=tM41Dxlk_zs)
 
+### Jupyter
+
+- [Accessing a Jupyter notebook server through reverse port forwarding](https://michaelgoerz.net/notes/accessing-a-jupyter-notebook-server-through-reverse-port-forwarding.html)
+
 ### Quotes
 
 - "You need to know the question you are trying to answer" (Bell, J. (2015). Machine learning: Hands-On for Developers and Technical Professionals)
