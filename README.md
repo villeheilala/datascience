@@ -6,6 +6,11 @@ My compillation of learning resources related to datascience
 
 - [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours)
 
+### General
+
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
+- [Data Science: What is the future of data analysis?](https://www.quora.com/Data-Science-What-is-the-future-of-data-analysis)
+
 ### Tutorials
 
 - [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
