@@ -2,6 +2,10 @@
 
 My compillation of learning resources related to datascience
 
+### Getting Started
+
+- [What should I learn in data science in 100 hours?](https://www.quora.com/What-should-I-learn-in-data-science-in-100-hours)
+
 ### Tutorials
 
 - [Kaggle Titanic Tutorial in Scikit-learn](http://www.ultravioletanalytics.com/2014/10/30/kaggle-titanic-competition-part-i-intro/)
