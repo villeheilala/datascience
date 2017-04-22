@@ -14,6 +14,10 @@ My compillation of learning resources related to datascience
 
 - Zaki, M. & Meira, W. (2014). [Data Mining and Analysis: Fundamental Concepts and Algorithms](http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf). New York: Cambridge University Press.
 
+### Journals
+
+- [Journal of Machine Learning Research](http://www.jmlr.org/)
+
 ### Linear Algebra
 
 - Video: [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (Youtube, 3Blue1Brown)
