@@ -67,6 +67,8 @@ My compillation of learning resources related to datascience
 
 #### Random Forest
 
+- [Random Forests](https://www.stat.berkeley.edu/~breiman/RandomForests/)
+- [Breiman, L. (2001). Random Forests.](https://www.stat.berkeley.edu/~breiman/randomforest2001.pdf)
 - [Random Forest Classifier Example]https://chrisalbon.com/machine-learning/random_forest_classifier_example_scikit.html
 
 #### (Fisher's) Linear Discriminant Analysis (LDA)
