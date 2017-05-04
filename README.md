@@ -108,6 +108,8 @@ My compillation of learning resources related to datascience
 
 - [Accessing a Jupyter notebook server through reverse port forwarding](https://michaelgoerz.net/notes/accessing-a-jupyter-notebook-server-through-reverse-port-forwarding.html)
 
+- [Remote Access to IPython Notebooks via SSH](https://coderwall.com/p/ohk6cg/remote-access-to-ipython-notebooks-via-ssh)
+
 ### Quotes
 
 - "You need to know the question you are trying to answer" (Bell, J. (2015). Machine learning: Hands-On for Developers and Technical Professionals)
