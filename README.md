@@ -113,3 +113,7 @@ My compillation of learning resources related to datascience
 ### Quotes
 
 - "You need to know the question you are trying to answer" (Bell, J. (2015). Machine learning: Hands-On for Developers and Technical Professionals)
+
+### Research
+
+- [Predicting Math Performance from Raw Large-Scale Educational Assessments Data: A Machine Learning Approach](http://medianetlab.ee.ucla.edu/papers/ICMLWS3.pdf)
