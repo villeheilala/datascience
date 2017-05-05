@@ -117,3 +117,4 @@ My compillation of learning resources related to datascience
 ### Research
 
 - [Predicting Math Performance from Raw Large-Scale Educational Assessments Data: A Machine Learning Approach](http://medianetlab.ee.ucla.edu/papers/ICMLWS3.pdf)
+- [Handling Missing Values when Applying Classification Models](http://jmlr.csail.mit.edu/papers/volume8/saar-tsechansky07a/saar-tsechansky07a.pdf)
