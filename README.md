@@ -60,6 +60,10 @@ My compillation of learning resources related to datascience
 
 - Zaki & Meira Chapter 18.3 k Nearest Neighbors Classifier
 
+#### Naive Bayes
+
+- Video: [Naive Bayes Classifier](https://www.youtube.com/playlist?list=PLBv09BD7ez_6CxkuiFTbL3jsn2Qd1IU7B) (Youtube, V. Lavrenko)
+
 #### Decision Tree
 
 - Zaki & Meira Chapter 19 Decision Tree Classifier
